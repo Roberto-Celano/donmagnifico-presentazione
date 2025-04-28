@@ -1,6 +1,7 @@
 # 🍽️ Don Magnifico Ristorante
 
 Sito web ufficiale per il ristorante **Don Magnifico**, sviluppato per consentire ai clienti di effettuare prenotazioni online, consultare il menù e ricevere informazioni sui servizi offerti.
+Questo progetto è nato per rispondere alle esigenze reali di un'attività ristorativa: semplicità, efficienza e user experience ottimizzata.
 
 ---
 
@@ -81,3 +82,6 @@ Consulta il file [LICENSE.md] per maggiori dettagli.
 ## ⭐ Supporta il progetto!
 Se ti piace il lavoro svolto, lascia una ⭐ su GitHub per supportare il progetto e il mio percorso di crescita!
 
+## 👨‍💻 Autore
+Realizzato da [Roberto Celano](https://www.robertocelano.dev)  
+Web Developer | Appassionato di Web Design e Backend Development
