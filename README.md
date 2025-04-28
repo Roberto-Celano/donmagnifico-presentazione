@@ -1,4 +1,12 @@
 # 🍽️ Don Magnifico Ristorante
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-CA2135?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PHPMailer](https://img.shields.io/badge/PHPMailer-45B8D8?style=for-the-badge&logo=php&logoColor=white)
 
 Sito web ufficiale per il ristorante **Don Magnifico**, sviluppato per consentire ai clienti di effettuare prenotazioni online, consultare il menù e ricevere informazioni sui servizi offerti.
 Questo progetto è nato per rispondere alle esigenze reali di un'attività ristorativa: semplicità, efficienza e user experience ottimizzata.
