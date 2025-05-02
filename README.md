@@ -41,7 +41,7 @@ Questo progetto è nato per rispondere alle esigenze reali di un'attività risto
 
 1. Clona il repository:
    ```bash
-   git clone https://github.com/Roberto-Celano/donmagnifico.it.git
+   git clone https://github.com/Roberto-Celano/donmagnifico-presentazione.git
 
 2. Imposta */public* come root directory del server web.
 3. Configura i parametri di connessione al database nel file config.php.
