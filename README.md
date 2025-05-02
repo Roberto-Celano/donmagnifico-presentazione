@@ -83,7 +83,7 @@ Questo progetto è nato per rispondere alle esigenze reali di un'attività risto
 
 ## ⚖️ Licenza
 Questo progetto è distribuito sotto licenza MIT.
-Consulta il file [LICENSE.md] per maggiori dettagli.
+Consulta il file **LICENSE.md** per maggiori dettagli.
 
 ---
 
